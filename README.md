@@ -24,7 +24,7 @@ Voice agent for pet grooming and care services (e.g., Toronto Pets). Handles boo
 - "Book dog nail care tomorrow at 12 PM with Shaheer" → Agent confirms and books
 
 ## Demo
-Refer to the attached `project_demo.pdf` for Square booking screenshots, Retell AI logs, n8n workflow, and call flow.
+Refer to the attached `Pet Services Voice Agent.pdf` for Square booking screenshots, Retell AI logs, n8n workflow, and call flow.
 
 ## License
 MIT
